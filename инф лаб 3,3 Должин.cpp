@@ -2,6 +2,8 @@
 #include <bitset>
 #include <string>
 
+//Изменение из Github
+
 using namespace std;
 
 // Том үсэг эсэхийг шалгах функц
